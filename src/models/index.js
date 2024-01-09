@@ -1,0 +1,1 @@
+// models/: Here, you define the data models for your application. Each model file corresponds to a specific data entity (e.g., userModel.js, postModel.js).
